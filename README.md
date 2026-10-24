@@ -161,3 +161,15 @@ AI assistance (Claude by Anthropic) was used during this project primarily for d
 ## License
 
 This project was completed as a course assignment at Virginia Tech. Code is provided for educational purposes.
+
+
+---
+
+## Contributors
+
+Jointly developed by:
+
+- [Shruti Narayanan (@shrutin3009)](https://github.com/shrutin3009) — ESM-2 experiments: linear probing and full fine-tuning.
+- [Shoumik Bisoi (@shoumik77)](https://github.com/shoumik77) — ProtT5-XL experiments: linear probing and LoRA.
+
+Original shared repository: [shoumik77/protein-plm-finetuning-benchmark](https://github.com/shoumik77/protein-plm-finetuning-benchmark).
